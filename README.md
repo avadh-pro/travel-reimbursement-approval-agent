@@ -1,6 +1,8 @@
 # Travel Reimbursement Approval Agent
 
-**HCLTech — GenAI Engineer case study | Avadh Dobariya**
+**HCLTech — GenAI Engineer case study**
+
+**Avadh Dobariya** &middot; avadhdobariya@gmail.com &middot; [github.com/avadh-pro](https://github.com/avadh-pro)
 
 An AI agent that evaluates employee travel reimbursement claims against policy,
 receipts, per-diem limits and approval thresholds, and returns a structured
