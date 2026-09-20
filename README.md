@@ -42,4 +42,4 @@ planner to a live Claude tool-use loop. Both paths produce the same decisions.
 | `avadhdobariya.ipynb` | **The deliverable.** Agent, tools, dashboard, UI, tests, design notes. |
 | `UI SS_1.png` | Results dashboard, written by the notebook when the dashboard cell runs. |
 | `UI SS_2.png` | The claim-reviewer interface. |
-| `docs/superpowers/specs/` | The design spec written before implementation. |
+| `docs/specs/` | The design spec written before implementation. |
